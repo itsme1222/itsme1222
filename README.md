@@ -1,6 +1,3 @@
-# 💫 About Me:
-Chat-with-Your-Data is a MERN stack AI application where users upload documents (PDF/TXT/MD) and ask questions through a chatbot. 
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vishal-kushwaha-91361a19a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vishalkushwaha1222@gmail.com) 
